@@ -1,6 +1,9 @@
 ---
 layout: post
 title: You're up and running!
+date:   2015-04-18 08:43:59
+author: Christopher Timberlake
+categories: editorials
 ---
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
