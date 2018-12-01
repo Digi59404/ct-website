@@ -2,14 +2,25 @@
 # This file contains configuration flags to customize your site
 #
 
+gems:
+  - jekyll-archives # Sorry, not GitHub pages friendly!
+  - jekyll-sitemap
+  - jekyll-paginate
+
 # Name of your site (displayed in the header)
-name: CT Blog
+title: CT Blog
+subtitle: "The Blog of Christopher Timberlake"
+email: CT@ChristopherTimberlake.com
+name: Chris Timberlake
 
 # Short bio or description (displayed in the header)
 description: Cloud Consultant from Chattanooga, TN
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+cover: "/assets/header_image.jpg"
+logo: "/assets/logo.png"
+
 
 #
 # Flags below are optional
@@ -41,13 +52,13 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: "http://christophertimberlake.com"
+#url: "http://christophertimberlake.com"
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: "http://christophertimberlake.com"
+#baseurl: "http://christophertimberlake.com"
 
 #
 # !! You don't need to change any of the configuration flags below !!
@@ -67,6 +78,31 @@ kramdown:
   syntax_highlighter_opts:
     # Use existing pygments syntax highlighting css
     css_class: 'highlight'
+
+# Build settings
+markdown: kramdown
+paginate: 5
+paginate_path: "/page:num/"
+inter_post_navigation: false
+highlightjs_theme: "monokai-sublime"
+
+# Archive settings (see https://github.com/jekyll/jekyll-archives/)
+jekyll-archives:
+  enabled:
+    - categories
+    - tags
+  layout: 'archive'
+  permalinks:
+    category: '/category/:name/'
+    tag: '/tag/:name/'
+
+
+descriptions:
+  - cat: editorials
+    desc: "Posts that are merely my opinion."
+
+  - cat: guides
+    desc: "How to do things."
 
 # Set the Sass partials directory, as we're using @imports
 sass:
