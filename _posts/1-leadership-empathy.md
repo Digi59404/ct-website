@@ -19,22 +19,26 @@ In the future I plan to blog about things such as deploying Kubernetes on Chrome
 ### Empathy Empowers Employees
 Two years ago, while working at Red Hat, My father was admitted to the hospital in critical condition. This wasn't a case of "Oh, he has X, we need to do Y". For him, this was a case of "Oh, we don't know why he's sick." Unfortunately for my father, he never left that Hospital, and he never got the Burger King Whopper he so desparately wanted. It was a terrible and sudden event that lasted over two months before he finally got rest.
 
-This is something that every person will have to experience in their life, the loss of a family member or friend. Sometimes it may happen abruptly, and other times it may happen in a drawn out fashion as mine did. This isn't something that my happen, but it is an absolute that will happen. Like me that person will be forced with calling their manager and explaining the situation. They'll have the fear of that talk not going well and meeting as a response of "Well, when can we expect you in Tomorrow?", "How does this affect the project", or "Will I still get paid?"  etc.
+This is something that every person will have to experience in their life, the loss of a family member or friend. Sometimes it may happen abruptly, and other times it may happen in a drawn out fashion as mine did. This isn't something that may happen, but it is an absolute that will happen. Like me that person will be forced to call their manager and explain the situation. They'll have the fear of that talk not going well and meeting as a response of "Well, when can we expect you in tomorrow?", "How does this affect the project", or a question of "Will I still get paid?"  etc.
 
-*Come in when you're ready, I'll handle everything from here and let the client know. I'll make sure everything is handled. Don't worry about it, take your time, call me when you're ready to come back.*
+*Go take care of what you need, I'll handle everything from here and let the client know. I'll make sure everything is handled. Don't worry about it, take your time, call me when you're ready to come back.*
 
-The above was my manager's statement, almost verbatim. I remember that exact phone call two years later because to me it was shocking. I was absolutely dumbfounded. In the end, I spent time by my father's side and worked when I could. When he passed away, I took some time, a short time and returned.
+The above was my manager's statement, almost verbatim. I remember that exact phone call two years later because to me it was shocking. I was absolutely dumbfounded, I expected a fight, or worse. In the end, I spent time by my father's side and worked when I could. When he passed away, I took a short amount of time returned.
 
-When I returned, nothing at work had changed. My role was the same, my responsibilities were the same, my tasks were the same. This was instramental in my healing process. Having lost my father and having my world turned upside down, the one thing I never had to worry about was my job and role there-in. 
+When I returned, nothing at work had changed. My role was the same, my responsibilities were the same, my tasks were the same. This was instramental in my healing process. Having lost my father and having my world turned upside down, the one thing I never had to worry about was my job and role there-in. It was a form of structure that I needed.
 
-Because of this, I was able to heal quickly and not be anxious about the reprecusions of my departure. **Leading me to give work my 100% effort quicker and once again.**
+### The Outcome
 
-Not only was that the case, but I was reinvorgated and found I could fully support my manager and his role. I actively identified and sought out opportunities to ease his burden and make his job easier. I felt empowered to make decisions and take some risks because I knew at the end of the day he had my back and my best interests at heart.
+Because of my manager's response and actions, I was able to heal quickly and not be stressed about the reprecusions of my departure. This in turn left me with a strong desire to give my manager 110% effort. Not only because I wanted to repay him for his empathy, but because I respected him and wanted to make sure I did right by him.
+
+In one swift move, he not only gained my **respect**, my **allegiance**, and my **trust**. But he showed me that he was deserving of such things.
+
+After this, I found that not only did I work harder for him. But I felt a strong desire to solve issues before they reached him. I felt I could take risks and make decisions because he would have my back. This lead to me being a better employee and member of his team. It lead to me growing as a person and carrying that growth into the workplace where I could translate it into growth for the company and my team. 
 
 
 ### Finding Empathy
 
-I have many other stories with this employer. I'll save them for another day, I'm writing this today because recently i've decided I need to grow more and have decided to move on from them.
+I have many other stories with this employer. I'll save them for another day, I'm writing this today because recently i've decided I need to grow more and have decided to seek a new role.
 
 During my search for a new role, I interviewed with a number of companies. I believe the number was around 8-9? This last week I was in the final round of interviews with 3 of them, and one of those three decided to offer me a position with their company.
 
