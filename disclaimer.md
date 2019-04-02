@@ -6,7 +6,7 @@ permalink: /Disclaimer/
 
 ### Important Notice
 
-*The views and content on this website do not reflect the views or positions of IBM, Red Hat, or any other companies I am paid to consult or work for. All views and content of this website is sole responsibility of Christopher Timberlake.*
+*The views and content on this website do not reflect the views or positions of GitLab, IBM, Red Hat, or any other companies I am paid to consult or work for. All views and content of this website is sole responsibility of Christopher Timberlake.*
 
 ### License Prequel
 
