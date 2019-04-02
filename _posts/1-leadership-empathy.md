@@ -66,4 +66,4 @@ Even after informing them of my promise and intent. Instead of saying "I'm sorry
 
 I accepted the offer with the new company that day. Not because it was better. In-fact, the base pay was **double digit percentage points lower** than some of the other positions I was applying for. A fact the manager himself identified during the interview.
 
-I accepted the offer with that company; Because they showed me empathy. They treated me like a human being, and not a 2018 Honda Accord with sweet rims. Because of this, I know they will empower me to do my best work, and support me on my path.
+I accepted the offer with that company; Because they showed me empathy. They treated me like a human being, and not a 2018 Honda Accord with sweet rims. Because of this, I know they will empower me to do my best work, and support in my role.
